@@ -10,3 +10,5 @@ This repository contain python coding solution with questions link
 - Find the sum of Length of Strings at given indices : https://www.geeksforgeeks.org/python-find-the-sum-of-length-of-strings-at-given-indices/?ref=rp
 - Find maximum length sub-list in a nested list : https://www.geeksforgeeks.org/python-find-maximum-length-sub-list-in-a-nested-list/?ref=rp
 - Create list of tuples : https://www.geeksforgeeks.org/python-program-to-create-a-list-of-tuples-from-given-list-having-number-and-its-cube-in-each-tuple/
+- Largest Even and Largest Odd Number in a List : https://www.geeksforgeeks.org/python-program-to-print-largest-even-and-largest-odd-number-in-a-list/?ref=rp
+- find second largest number in a list : https://www.geeksforgeeks.org/python-program-to-find-second-largest-number-in-a-list/
