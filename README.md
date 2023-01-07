@@ -13,3 +13,4 @@ This repository contain python coding solution with questions link
 - Largest Even and Largest Odd Number in a List : https://www.geeksforgeeks.org/python-program-to-print-largest-even-and-largest-odd-number-in-a-list/?ref=rp
 - find second largest number in a list : https://www.geeksforgeeks.org/python-program-to-find-second-largest-number-in-a-list/
 - Remove Initial character in String List : https://www.geeksforgeeks.org/python-remove-initial-character-in-string-list/?ref=rp
+- find second maximum value in Dictionary : https://www.geeksforgeeks.org/python-program-to-find-second-maximum-value-in-dictionary/
