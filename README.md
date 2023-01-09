@@ -15,3 +15,4 @@ This repository contain python coding solution with questions link
 - Remove Initial character in String List : https://www.geeksforgeeks.org/python-remove-initial-character-in-string-list/?ref=rp
 - find second maximum value in Dictionary : https://www.geeksforgeeks.org/python-program-to-find-second-maximum-value-in-dictionary/
 - Programs for printing pyramid patterns in Python : https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/
+- Write a python program to reverse All Strings in String List : https://www.geeksforgeeks.org/python-reverse-all-strings-in-string-list/?ref=leftbar-rightbar
