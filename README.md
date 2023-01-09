@@ -14,3 +14,4 @@ This repository contain python coding solution with questions link
 - find second largest number in a list : https://www.geeksforgeeks.org/python-program-to-find-second-largest-number-in-a-list/
 - Remove Initial character in String List : https://www.geeksforgeeks.org/python-remove-initial-character-in-string-list/?ref=rp
 - find second maximum value in Dictionary : https://www.geeksforgeeks.org/python-program-to-find-second-maximum-value-in-dictionary/
+- Programs for printing pyramid patterns in Python : https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/
